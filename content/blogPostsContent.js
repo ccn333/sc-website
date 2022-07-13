@@ -1,0 +1,88 @@
+import clearancespotBlog from "content/blogposts/clearancespot.md";
+
+export const BLOG_POSTS = [
+  {
+    id: 0,
+    slug: "clearancespot",
+    published: true,
+    postImg: "/gallery/projects/clearancespot/clearancespot-preview.png",
+    cardImg: "/gallery/blog/cardimg.png",
+    category: ["DEVELOPMENT", "WEB"],
+    info: "5 min read",
+    author: "Filip Filipović",
+    title: "Clearance Spot",
+    previewText:
+      "Have you ever wondered if there is a website that joins multiple retailers and shows only products with clearance tags across multiple categories?",
+    text: clearancespotBlog,
+  },
+  {
+    id: 1,
+    slug: "security-1",
+    published: true,
+    postImg: "/gallery/blog/post-img.png",
+    cardImg: "/gallery/blog/card-img.png",
+    category: ["DEVELOPMENT"],
+    info: "5 min read",
+    author: "Filip Filipović",
+    title: "Security in modern apps-1",
+    previewText:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.",
+    text: "",
+  } /*,
+  {
+    id: 2,
+    slug: "security-2",
+    published: true,
+    postImg: "/gallery/blog/post-img.png",
+    cardImg: "/gallery/blog/cardimg.png",
+    category: ["DEVELOPMENT"],
+    info: "5 min read",
+    author: "Filip Filipović",
+    title: "Security in modern apps-2",
+    previewText:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.",
+    text: "",
+  },
+  {
+    id: 3,
+    slug: "security-3",
+    published: true,
+    postImg: "/gallery/blog/post-img.png",
+    cardImg: "/gallery/blog/cardimg.png",
+    category: ["DEVELOPMENT"],
+    info: "5 min read",
+    author: "Filip Filipović",
+    title: "Security in modern apps-3",
+    previewText:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.",
+    text: "",
+  },
+  {
+    id: 4,
+    slug: "security-4",
+    published: false,
+    postImg: "/gallery/blog/post-img.png",
+    cardImg: "/gallery/blog/cardimg.png",
+    category: ["DEVELOPMENT"],
+    info: "5 min read",
+    author: "Filip Filipović",
+    title: "Security in modern apps-4",
+    previewText:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.",
+    text: "",
+  },
+  {
+    id: 5,
+    slug: "flutter-react-native",
+    published: true,
+    postImg: "/gallery/blog/post-img.png",
+    cardImg: "/gallery/blog/cardimg.png",
+    category: ["DEVELOPMENT", "DESIGN"],
+    info: "5 min read",
+    author: "Kevin Bogdan",
+    title: "Flutter or React Native - What to choose in 2021?",
+    previewText:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.",
+    text: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled. ",
+  },*/,
+];

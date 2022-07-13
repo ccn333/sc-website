@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Open+Sans&family=Volkhov&family=Montserrat&display=swap");
+
+/* @font-face {
+  font-family: "Roboto";
+  src: url(https://fonts.googleapis.com/css2?family=Roboto&display=swap);
+}
+
+@font-face {
+  font-family: "Open Sans";
+  src: url(https://fonts.googleapis.com/css2?family=Open+Sans&display=swap);
+}
+
+@font-face {
+  font-family: "Volkhov";
+  src: url(https://fonts.googleapis.com/css2?family=Volkhov&display=swap);
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url(https://fonts.googleapis.com/css2?family=Montserrat&display=swap);
+} */
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
+    Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.grecaptcha-badge {
+  visibility: hidden;
+}
